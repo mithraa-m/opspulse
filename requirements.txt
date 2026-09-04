@@ -3,4 +3,3 @@ pandas
 groq
 altair
 jsonschema
-google-genai
